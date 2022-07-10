@@ -7,14 +7,6 @@
 
 - 🔭 I’m currently working on [Velve Dark](https://github.com/codenay/velve-dark)
 
-- 🌱 I’m currently learning **React**
-
-- 👨‍💻 All of my projects are available at [www.kofi.codes](www.kofi.codes)
-
-- 📫 How to reach me **koffieawuku@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/ebenezer-awuku-264271169](https://www.linkedin.com/in/ebenezer-awuku-264271169)
-
 - ⚡ Fun fact: **I love JavaScript**
 
 <h3 align="left">Connect with me:</h3>
