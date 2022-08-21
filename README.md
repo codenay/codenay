@@ -1,4 +1,3 @@
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 ### <div align="center">I am a design-minded front-end developer focused on building beautiful interfaces and experiences.</div>  
   
 
