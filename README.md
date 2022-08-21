@@ -1,3 +1,4 @@
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 ### <div align="center">I am a design-minded front-end developer focused on building beautiful interfaces and experiences.</div>  
   
 
@@ -12,7 +13,7 @@
 
 <br/>  
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="90%">
 
 
 
@@ -34,13 +35,6 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
 </div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
 
 
 </td></tr></table>  
@@ -80,7 +74,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
+ 
   
 
 <br/>  
@@ -100,6 +94,6 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codenay&show_icons=true&locale=en&layout=compact" alt="codenay" /></p>
