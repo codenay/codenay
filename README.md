@@ -1,3 +1,8 @@
+<div align="center">
+<br/>
+<img src="https://komarev.com/ghpvc/?username=codenay&&style=flat-square" align="center" />
+</div>  
+
 ### <div align="center">I am a design-minded front-end developer focused on building beautiful interfaces and experiences.</div>  
   
 
@@ -11,8 +16,6 @@
   
 
 <br/>  
-
-<table><tr><td valign="top" width="90%">
 
 
 
@@ -36,7 +39,7 @@
 </div>
 
 
-</td></tr></table>  
+ 
 
 <br/>  
 
@@ -70,29 +73,9 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=codenay&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
- 
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=codenay&&style=flat-square" align="center" />
-</div>  
-  
 
 <br/>  
 
 
-<br />
-
-----
-
-
+<br/>  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codenay&show_icons=true&locale=en&layout=compact" alt="codenay" /></p>
