@@ -1,3 +1,5 @@
+---
+<br/>
 [![](https://visitcount.itsvg.in/api?id=codenay&icon=4&color=8)](https://visitcount.itsvg.in)
 
 <br/>
@@ -84,6 +86,6 @@
 
 ### 📝 Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<br/>
 ---
 
