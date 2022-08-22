@@ -46,8 +46,8 @@
 <br/>  
 
 
-### 🌍 Connect with me  
-<div align="center">
+### 🌍 Connect with me:  
+<div>
 <a href="https://github.com/codenay" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -82,7 +82,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=codenay&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codenay&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 📝 Dev Quote
+### 📝 Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
