@@ -5,7 +5,7 @@
 ### <div>I am a design-minded front-end developer focused on building beautiful interfaces and experiences.</div>  
   
 
-- 🔭 I’m currently working on [my portfolio website](https://codenay.github.io/Personal-Porfolio/)  
+- 🔭 I’m currently working on [my portfolio website](https://codenay.github.io/Personal-Portfolio/)  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
